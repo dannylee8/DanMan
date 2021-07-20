@@ -41,9 +41,9 @@
     -  BigQuery ML: Create and execute ML models using standard SQL queries via GC console, bq CLI, REST API, or external notebooks - https://cloud.google.com/bigquery-ml/docs/
     -  BigQuery Omni: Query AWS and Azure from BigQuery UI using standard SQL, powered by Anthos. - https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni
       -  Anthos clusters: Enterprise-grade conformant kubernetes services across hybrid and multi-cloud environments. - https://cloud.google.com/anthos/clusters
-    -  BigQuery BI Engine - https://cloud.google.com/bi-engine/docs
-    -  Google Data Studio - https://analytics.google.com/analytics/academy/course/10
-    -  Google Looker - Cloud based BI/Analytics platform.  Unified metrics, permissioning, version-control, security, cloud and best-in-class APIs.  Multicloud, abstraction of underlying data complexity to operationalize BI for everyone, rapid time to value and leading-edge AI/ML and advanced analytics.
+    -  BigQuery BI Engine: https://cloud.google.com/bi-engine/docs
+    -  Google Data Studio: https://analytics.google.com/analytics/academy/course/10
+    -  Google Looker: Cloud based BI/Analytics platform.  Unified metrics, permissioning, version-control, security, cloud and best-in-class APIs.  Multicloud, abstraction of underlying data complexity to operationalize BI for everyone, rapid time to value and leading-edge AI/ML and advanced analytics.
   - **Microsoft Azure Synapse Analytics**: Unified analytics platform, serverless/dedicated options, enterprise data warehouse, integrated with Spark and SQL engines (T-SQL), code-free visual ETL/ELT ingestion connectors, Cloud-native HTAP (Hybrid Transactional/Analtyical Processing), Integrated AI/BI with Azure ML, Azure Cognitive Services and Power BI.  Languages: T-SQL, Python, Scala, Spark SQL and .Net. - https://azure.microsoft.com/en-us/services/synapse-analytics
                 
 ## Data lake
@@ -96,7 +96,8 @@
 
 ## Time series DBs
   - **Amazon Timestream**: IoT apps, DevOps, industrial telemtery - https://aws.amazon.com/timestream
-
+  - **Riak TS**:  Distributed, NoSQL database optimized for time-series use cases with unmatched resiliency beyond typical HA offerings.  Uses DVVs (Dotted Version Vectors)   to track logical time rather than chrological time to resolve object conflicts.  Spark connector, mesos framework, redis db integration (eventually consistency), CRDT (Conflict-free Replicated Data Types aka Convergent Replicated Data Type aka Commutative Replicated Data Type, etc) inspired data-types.
+  - 
 ## Ledger DBs
   - **Amazon QLDB**: System or record, supply chain, registrations, banking transactions - https://aws.amazon.com/qldb
 
