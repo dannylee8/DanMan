@@ -1,5 +1,3 @@
-## https://datameshlearning.com/user-stories/
-
 ### ABN AMRO A1
   - Providers
     - Event, batch, API-based publishers => subscribers / read-request response
