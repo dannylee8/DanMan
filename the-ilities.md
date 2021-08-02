@@ -71,7 +71,7 @@ references:
 - interoperability:  How well software interacts with specified systems
 - learnability: Measures how well users can learn to use the software
 - localizability: 
-- maintainability: 
+- maintainability: How brittle is the s/u to change?
 - manageability: 
 - mobility: 
 - modifiability: 
@@ -95,18 +95,18 @@ references:
 - reusability:  
 - robustness: 
 - safety: 
-- scalability: 
+- scalability: How well does the s/u handle increased demand or stress
 - seamlessness: 
 - self-sustainability: 
 - serviceability (a.k.a. supportability): 
 - securability:  
 - simplicity: 
-- stability: 
+- stability: How resistant is the system to unexpected effects as a result of modifications?
 - standards compliance: 
 - survivability: 
 - sustainability: 
 - tailorability: 
-- testability: 
+- testability: How much effort is needed to validate the software and provide test coverage?
 - timeliness: 
 - traceability: 
 - transparency: 
